@@ -3,7 +3,7 @@ NCSA Website Review
 ### May 14,2021
 [NCSA Website]( https://www.ncsasports.org/recruiting/how-to-get-recruited/college-recruiting-process)
 
-##Webiste Overview and Reccomendations 
+Webiste Overview and Reccomendations 
 
   This website aims to help high school students get recruited to colleges across the United States of America. One problem I saw with this website was it did not offer anything to student athletes that were not picked by D1 programs. This would give students that didn’t receive scholarships an added opportunity to continue their sports career. By offering something such no added membership fees that would make it more inclusive for everyone. It would also act as a networking space where schools and players could contact each other.
  
